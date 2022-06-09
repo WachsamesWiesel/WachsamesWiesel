@@ -1,7 +1,34 @@
+<br>
+
 <dev align="center">
-    <h1>Hi thre Im Wiesel aka Roman.K </h1>
+    <h1><b>Hi there, Im Wiesel aka Roman.K </b></h1>
 </dev>
 
-## Skills
-<ul>
-    <li><img src="img/>
+<h2><b>About Me :</b></h2>
+Hi Im Wiesel aka. Roman.K.
+Currently Im studyng Information Technoligy at the BBS-ME in germany.
+
+<br>
+<br>
+
+<h2><b>Skills :</b></h2>
+<img height="60" src="img/c-.png">
+<img height="60" src="img/c-sharp.png">
+<img height="60" src="img/postgre.png">
+<img height="60" src="img/python.png">
+
+<br>
+
+<h2><b>Currently Learning </b></h2>
+<img height="60" src="img/unity.png">
+
+<br>
+<br>
+
+<h2><b>Socials </b></h2>
+<a href="https://github.com/WachsamesWeisel/"><img height="60" src="img/github-sign.png"></a>
+
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WachsamesWiesel&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
