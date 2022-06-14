@@ -1,12 +1,12 @@
 <br>
 
 <dev align="center">
-    <h1><b>Hi there, Im Roman </b></h1>
+    <h1><b>Hello there, Im Roman </b></h1>
 </dev>
 
 <h2><b>About Me :</b></h2>
 Hi Im Roman
-Currently Im studyng Information Technoligy at the BBS-ME in germany.
+currently Im studyng Information technology at the BBS-ME in germany.
 
 
 <br>
