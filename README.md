@@ -1,11 +1,11 @@
 <br>
 
 <dev align="center">
-    <h1><b>Hi there, Im Wiesel aka Roman.K </b></h1>
+    <h1><b>Hi there, Im Roman </b></h1>
 </dev>
 
 <h2><b>About Me :</b></h2>
-Hi Im Wiesel aka. Roman.K.
+Hi Im Roman
 Currently Im studyng Information Technoligy at the BBS-ME in germany.
 
 <br>
