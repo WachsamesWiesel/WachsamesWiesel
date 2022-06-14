@@ -32,7 +32,7 @@ Currently Im studyng Information Technoligy at the BBS-ME in germany.
 
 <h2><b>Socials</b></h2>
 <div aling = "left">
-    <a href="https://github.com/WachsamesWeisel/"><img height="60" src="img/github-sign.png"></a>
+    <a href="https://github.com/WachsamesWiesel/"><img height="60" src="img/github-sign.png"></a>
 </dif>
 <br>
 <br>
