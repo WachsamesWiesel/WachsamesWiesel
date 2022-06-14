@@ -12,22 +12,27 @@ Currently Im studyng Information Technoligy at the BBS-ME in germany.
 <br>
 
 <h2><b>Skills :</b></h2>
-<img height="60" src="img/c-.png">
-<img height="60" src="img/c-sharp.png">
-<img height="60" src="img/postgre.png">
-<img height="60" src="img/python.png">
-
+<div align = "left">
+    <img height="60" src="img/c-.png">
+    <img height="60" src="img/c-sharp.png">
+    <img height="60" src="img/postgre.png">
+    <img height="60" src="img/python.png">
+</div>
 <br>
 
 <h2><b>Currently Learning </b></h2>
-<img height="60" src="img/unity.png">
+<div aling = "left">
+    <img height="60" src="img/unity.png">
+</dif>
+
 
 <br>
 <br>
 
 <h2><b>Socials </b></h2>
-<a href="https://github.com/WachsamesWeisel/"><img height="60" src="img/github-sign.png"></a>
-
+<div aling = "left">
+    <a href="https://github.com/WachsamesWeisel/"><img height="60" src="img/github-sign.png"></a>
+</dif>
 <br>
 <br>
 
