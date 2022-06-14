@@ -8,10 +8,11 @@
 Hi Im Roman
 Currently Im studyng Information Technoligy at the BBS-ME in germany.
 
+
 <br>
 <br>
 
-<h2><b>Skills :</b></h2>
+<h2><b>My Skills :</b></h2>
 <div align = "left">
     <img height="60" src="img/c-.png">
     <img height="60" src="img/c-sharp.png">
