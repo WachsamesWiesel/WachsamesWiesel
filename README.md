@@ -30,11 +30,11 @@ Currently Im studyng Information Technoligy at the BBS-ME in germany.
 <br>
 <br>
 
-<h2><b>Socials </b></h2>
+<h2><b>Socials</b></h2>
 <div aling = "left">
     <a href="https://github.com/WachsamesWeisel/"><img height="60" src="img/github-sign.png"></a>
 </dif>
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WachsamesWiesel&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WachsamesWiesel&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
