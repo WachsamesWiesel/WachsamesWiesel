@@ -21,7 +21,7 @@ currently Im studyng Information technology at the BBS-ME in germany.
 </div>
 <br>
 
-<h2><b>Currently Learning </b></h2>
+<h2><b>Currently Learning :</b></h2>
 <div aling = "left">
     <img height="60" src="img/unity.png" hspace="10">
 </dif>
@@ -30,7 +30,7 @@ currently Im studyng Information technology at the BBS-ME in germany.
 <br>
 <br>
 
-<h2><b>Socials</b></h2>
+<h2><b>Socials :</b></h2>
 <div aling = "left">
     <a href="https://github.com/WachsamesWiesel/"><img height="60" src="img/github-sign.png" hspace="10"></a>
     <a href="https://discordapp.com/users/435485227025170442/"><img height="60" src="img/discord.png" hspace="10"></a>
