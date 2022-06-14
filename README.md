@@ -13,17 +13,17 @@ Currently Im studyng Information Technoligy at the BBS-ME in germany.
 <br>
 
 <h2><b>My Skills :</b></h2>
-<div align = "left">
-    <img height="60" src="img/c-.png">
-    <img height="60" src="img/c-sharp.png">
-    <img height="60" src="img/postgre.png">
-    <img height="60" src="img/python.png">
+<div align = "left" >
+    <img height="60" src="img/c-.png" hspace="10">
+    <img height="60" src="img/c-sharp.png" hspace="10">
+    <img height="60" src="img/postgre.png" hspace="10">
+    <img height="60" src="img/python.png" hspace="10">
 </div>
 <br>
 
 <h2><b>Currently Learning </b></h2>
 <div aling = "left">
-    <img height="60" src="img/unity.png">
+    <img height="60" src="img/unity.png" hspace="10">
 </dif>
 
 
@@ -32,8 +32,8 @@ Currently Im studyng Information Technoligy at the BBS-ME in germany.
 
 <h2><b>Socials</b></h2>
 <div aling = "left">
-    <a href="https://github.com/WachsamesWiesel/"><img height="60" src="img/github-sign.png"></a>
-    <a href="https://discordapp.com/users/435485227025170442/"><img height="60" src="img/discord.png"></a>
+    <a href="https://github.com/WachsamesWiesel/"><img height="60" src="img/github-sign.png" hspace="10"></a>
+    <a href="https://discordapp.com/users/435485227025170442/"><img height="60" src="img/discord.png" hspace="10"></a>
 </dif>
 <br>
 <br>
