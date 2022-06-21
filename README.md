@@ -5,8 +5,7 @@
 </dev>
 
 <h2><b>About Me :</b></h2>
-Hi Im Roman
-currently Im studyng Information technology at the BBS-ME in germany.
+Currently Im studyng Information technology at the BBS-ME in germany.
 
 
 <br>
