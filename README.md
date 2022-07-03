@@ -5,7 +5,7 @@
 </dev>
 
 <h2><b>About Me :</b></h2>
-Currently Im studyng Information technology at the BBS-ME in germany.
+Currently Im studying Information technology at the BBS-ME in germany. I have developed a great interest for game development since i first started studying Information technology since it presents me with a great creative outlet for all my supid ideas and i realy like solving the diffrent logick problems that occur when developing software.
 
 
 <br>
