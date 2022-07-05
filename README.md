@@ -5,7 +5,7 @@
 </dev>
 
 <h1><b> About Me :</b></h1>
-Hello my im Roman :wave:, currently Im studying Information technology at the BBS-ME in germany. I have developed a great interest for game development since i first started studying Information technology because it presents me with a great creative outlet for all my stupid ideas and i realy like solving the diffrent logick problems that occur when developing software. I have a strong drive when it comes to learnig new thing's but im constantly looking for way's to expand my knowlege :brain:.
+Hello my im Roman :wave:, currently Im studying Information technology at the BBS-ME in germany. I have developed a great interest for game development since i first started studying Information technology because it presents me with a great creative outlet for all my stupid ideas and i realy like solving the diffrent logick problems that occur when developing software. I have a strong drive when it comes to learnig new thing's and im constantly looking for way's to expand my knowlege when it comes to making software :brain:.
 <br>
 <br>
 
