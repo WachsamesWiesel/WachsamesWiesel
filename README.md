@@ -1,7 +1,7 @@
 <br>
 
 <dev align="center">
-    <h1><b>Hello there, Im Roman </b></h1>
+    <h1><b>Welcome to my Page :)</b></h1>
 </dev>
 
 <h2><b>About Me :</b></h2>
